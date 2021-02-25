@@ -1,2 +1,2 @@
 # STM32F10xHeader
-Header file za ucenike ETS skole.
+Header file od 4T2 grupa 1.
